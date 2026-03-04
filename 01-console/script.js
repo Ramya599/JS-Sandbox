@@ -1,3 +1,4 @@
+//basics
 console.log("object");
 console.error("error");
 console.warn("warning");
